@@ -17839,7 +17839,7 @@ const a0 = x.createContext(void 0)
                         className: "w-8 h-8 text-cyan-400 group-hover:text-cyan-300 transition-colors duration-300 group-hover:rotate-12"
                     }), f.jsx("span", {
                         className: "text-white group-hover:text-cyan-400 transition-colors duration-300",
-                        children: "TheRealVenom"
+                        children: "Gina"
                     }), f.jsx("span", {
                         className: "text-cyan-400 group-hover:text-cyan-300 transition-colors duration-300 animate-pulse",
                         children: "."
@@ -17954,7 +17954,7 @@ const a0 = x.createContext(void 0)
                             className: "w-48 h-48 mx-auto rounded-full bg-gradient-to-br from-cyan-400 via-blue-500 to-purple-600 p-2 shadow-2xl animate-glow mb-8 pulse-glow",
                             children: f.jsx("img", {
                                 src: "/lovable-uploads/7c3c4bae-c8ce-4497-8217-a759cb11c627.png",
-                                alt: "TheRealVenom Profile",
+                                alt: "gina Profile",
                                 className: "w-full h-full rounded-full object-cover border-4 border-white/20"
                             })
                         })
@@ -17962,7 +17962,7 @@ const a0 = x.createContext(void 0)
                         className: "text-8xl md:text-[12rem] font-montserrat font-bold mb-8 animate-scale-in",
                         children: f.jsx("span", {
                             className: "text-shimmer",
-                            children: "kiro"
+                            children: "Gina Gad"
                         })
                     }), f.jsxs("div", {
                         className: "relative mb-10",
@@ -17973,7 +17973,7 @@ const a0 = x.createContext(void 0)
                             style: {
                                 animationDelay: "0.3s"
                             },
-                            children: "Discord Bot & Website Developer"
+                            children: "Fashion and shoes"
                         }), f.jsx(Wn, {
                             className: "absolute -bottom-4 -right-4 w-6 h-6 text-blue-400 animate-pulse",
                             style: {
@@ -17989,10 +17989,10 @@ const a0 = x.createContext(void 0)
                             className: "text-xl text-slate-200 leading-relaxed max-w-3xl mx-auto",
                             children: ["Hello, I am ", f.jsx("span", {
                                 className: "gradient-text font-semibold",
-                                children: "TheRealVenom"
+                                children: "gina"
                             }), ", nicknamed ", f.jsx("span", {
                                 className: "gradient-text font-semibold",
-                                children: "TheRealVenom"
+                                children: "jojo"
                             }), ". My skills are design and programming professionally. I program on my phone and design on my phone at the", f.jsx("span", {
                                 className: "text-cyan-400 font-semibold",
                                 children: " cheapest prices"
@@ -18182,7 +18182,7 @@ const a0 = x.createContext(void 0)
                         })
                     }), f.jsx("h1", {
                         className: "text-9xl md:text-[16rem] font-montserrat font-black mb-16 modern-text-gradient leading-none tracking-tighter transform hover:scale-105 transition-all duration-700 cursor-default",
-                        children: "Venom"
+                        children: "Gina Gad"
                     }), f.jsxs("div", {
                         className: "relative mb-12",
                         children: [f.jsx("div", {
@@ -18196,7 +18196,7 @@ const a0 = x.createContext(void 0)
                                 color: "hsl(var(--modern-text-primary))",
                                 animationDelay: "0.3s"
                             },
-                            children: "Discord Bots & Website Developer"
+                            children: "Fashion and shoes"
                         }), f.jsx("div", {
                             className: "w-32 h-1 mx-auto rounded-full",
                             style: {
@@ -18215,10 +18215,10 @@ const a0 = x.createContext(void 0)
                             },
                             children: ["Hello, I am ", f.jsx("span", {
                                 className: "modern-text-gradient font-bold text-4xl",
-                                children: "kiro"
+                                children: "Gina"
                             }), ", nicknamed ", f.jsx("span", {
                                 className: "modern-text-gradient font-bold text-4xl",
-                                children: "TheRealVenom"
+                                children: "jojo"
                             }), ". My expertise lies in ", f.jsx("span", {
                                 className: "modern-text-gradient font-semibold",
                                 children: "revolutionary design"
@@ -19318,7 +19318,7 @@ const a0 = x.createContext(void 0)
                 className: "max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-center",
                 children: [f.jsx("div", {
                     className: "text-2xl font-semibold mb-6 md:mb-0 modern-text-gradient",
-                    children: "© 2025 TheRealVenom. All rights reserved."
+                    children: "© 2025 gina. All rights reserved."
                 }), f.jsxs("div", {
                     className: "flex items-center gap-8",
                     children: [f.jsx("a", {
@@ -19375,6 +19375,7 @@ const a0 = x.createContext(void 0)
     })
 });
 jh(document.getElementById("root")).render(f.jsx(Y2, {}));
+
 
 
 
